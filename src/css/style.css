@@ -1,0 +1,12 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background-color: #CCCCCC;
+}
+.container {
+    background-color: #FFFFFF;
+    padding: 48px;
+    height: 50vh;
+}
+.row {
+  margin-bottom: 24px;
+}
